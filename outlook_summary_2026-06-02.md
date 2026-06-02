@@ -1,19 +1,19 @@
-# 오늘의 메일 요약 (2026-06-02) 08:00-17:00
+# 오늘의 메일 요약 (2026-06-02)
 
 ## 요약
 
 - 높음: 0건
-- 보통: 18건
+- 보통: 21건
 - 낮음: 0건
-- 첨부파일 포함: 14건
+- 첨부파일 포함: 16건
 
 ## 주제별
 
 - 기타: 7건
+- 제품/검사: 4건
 - 생산/제조: 4건
 - AI/교육: 2건
 - 견적/구매: 2건
-- 제품/검사: 1건
 - 회의/공지: 1건
 - 소프트웨어: 1건
 
@@ -23,21 +23,93 @@
 
 ## 전체 목록
 
+- 2026-06-02 17:22 | 보통 | [첨부] | 읽음 | 제품/검사 | ICHROMA 2, 3 & AFIAS- 6, 10 정식버전 소프트웨어 배포 공지
+  > 안녕하세요 최광원 입니다.        공지문이 누락되어 다시 전달해드립니다.        감사합니다.     최광원 올림           안녕하세요 최광원 입니다.     ICHROMA 2, 3 & AFIAS- 6, 10 정식버전 소프트웨어를 배포합니다.     [다운로드 링크]  ICHROM
+  - 📎 AFIAS-10 SW Release Notice_2026.05.pdf
+  - 📎 ichroma II SW Release Notice_2026.05.pdf
+  - 📎 ichroma III SW Release Notice_2026.05.pdf
+  - 📎 AFIAS-6 SW Release Notice_2026.05.pdf
+- 2026-06-02 17:10 | 보통 | [일반] | 읽음 | 제품/검사 | ICHROMA 2, 3 & AFIAS- 6, 10 정식버전 소프트웨어 배포 공지
+  > 안녕하세요 최광원 입니다.     ICHROMA 2, 3 & AFIAS- 6, 10 정식버전 소프트웨어를 배포합니다.     [다운로드 링크]  ICHROMA 2 : IR2.01.15.00 / AI2.01.15.00   https://gofile.me/7BWJg/q09rZr5Yt     ICRHOMA 3 : AI3.WW.01.0
+- 2026-06-02 17:02 | 보통 | [첨부] | 읽음 | 제품/검사 | 2026년 6월 2일 카트리지 완제품 검사 결과 공유
+  > 2026년 6월 2일 카트리지 완제품 검사 결과 공유 드립니다.     특이사항  1.	AFIAS CA125 _ C1WDA09G : 성능부적합 	5월 21일 검사 정확도 기준 초과, PM 검토 및 추가 테스트를 거쳐 부적합 확정     2.	AFIAS Progesterone _ PGWDA16X (독일) : 성능부적합  5월 29일 검
+  - 📎 image001.gif
 - 2026-06-02 16:48 | 보통 | [첨부] | 읽음 | 제품/검사 | 품질경영회의(6/2) 회의록 입니다.
+  > 수신자 제위     안녕하세요.   QA팀 최은지입니다.   품질경영회의(20260602) 관련하여 메일드립니다. 자세한 내용은 첨부파일을 확인해주세요.      품질경영회의(20260602)의 건  일시  2026년 06월 02일(화)  장소  연구동 5층 대회의실  참석자(직급 생략)  강가영, 강덕현, 구연수
+  - 📎 QA-2026-TS-015_품질경영회의(260602)의 건_2026.06.02_QA.pdf
+  - 📎 260602 품질경영회의 자료_rev0.pptx
 - 2026-06-02 16:15 | 보통 | [첨부] | 읽음 | AI/교육 | RE: [AI위원회 1강] 춘천 교육 사전 준비 안내
+  > AI 위원회 춘천 교육 위원 제위,     안녕하십니까,     AI 위원회 춘천 교육 과정에 열의를 가지고 참여해 주시는 위원님들께 깊은 감사를 드립니다.  다름이 아니라 다가오는 제2강 교육의 실습 주제 및 커리큘럼 순서가 일부 변경되어 안내의 말씀을 올립니다.     기존에 계획되었던 'packing list 자동생성' 관련 
+  - 📎 image001.png
+  - 📎 image002.png
 - 2026-06-02 15:54 | 보통 | [첨부] | 읽음 | 생산/제조 | Boditech Ferritin Control 출고 요청
+  > 박형선 과장님께     안녕하세요  Cancer팀 박주연입니다.     다음과 같이 Control 반제품 출고 요청드립니다.     Boditech Ferritin 반제품 lv1, lv2 각 40 set  SPCO067_260122 / SPCO067-A_260122  사유: 수식작성 및 반제품/완제품 QC     감사
+  - 📎 출고요청서_20260602.docx
 - 2026-06-02 13:19 | 보통 | [일반] | 읽음 | AI/교육 | RE: [제2기 AI 위원회] 춘천 교육 회식일정 안내_6/4(목) 업무 종료 후
+  > AI 위원회 춘천 교육 위원 제위,     안녕하십니까,      6/4(목) 업무 종료 후 AI 위원회의 회식이 있습니다.  회식장소는 참석 인원을 확정한 후 안내드릴 예정이오니,  금일 4시까지 참석 여부를 메일 또는 메신저로 전달주시기 바랍니다.     감사합니다.        한예지 | YeJi Han  사
 - 2026-06-02 13:19 | 보통 | [첨부] | 읽음 | 견적/구매 | RE: 20260601-견적서-Calpro ELISA-바디텍-김나연 연구원.pdf
+  > 메디쿠스 김윤규 입니다.  수정 견적서 보내드립니다  감사합니다. ================================== (주)메디쿠스 김윤규 경기도 하남시 미사강변서로 25, 미사테스타타워 R120호   사무실: 02-575-0792 휴대폰: 010-5289-4461 이메일:mediqus@naver.com & medimast@n
+  - 📎 image001.jpg
+  - 📎 20260601-견적서-수정-Calpro ELISA-바디텍-김나연 연구원.pdf
 - 2026-06-02 13:15 | 보통 | [일반] | 읽음 | 생산/제조 | 6월 생산 투입용 항체 리스트 취합
+  > 연구원분들께     안녕하세요.   연구기획팀 송나솔입니다.     2026년 6월 생산 투입용 항체 구매분을 산정하여 기안서를 작성하고자 합니다.   생산 투입용 항체 구매양을 6월 11일 (목요일) 오전 10시까지 회신하여 주시기 바랍니다.  구매 품목 전달 시 견적서 새로 받아서 전달 부탁드립니다.     구매요청서 수
 - 2026-06-02 11:30 | 보통 | [첨부] | 읽음 | 생산/제조 | 기타 출고 요청_26.06.02
+  > 김건주 사원님께  안녕하세요.   Cancer팀 장혜지입니다.     하기 품목 기타 출고 요청 드립니다.  입/출 유형  품번 (Item Code)  품명 (Item Name)  단위 (Unit)  수량 (Quantity)  BOX 수량 (Box Qty)  LOT  사유 (Reason)  연구용 예
+  - 📎 기타출고요청서_AFIAS iFOB Neo(FO_X)_해외.pdf
 - 2026-06-02 11:21 | 보통 | [첨부] | 읽음 | 기타 | RE: BMI2501 - AFIAS Ferritin - Update
+  > 김철민 부장님,      추가로 임상전 site 방문 및 training 가능여부 확인했으나 꺼려하는 분위기 입니다.     Many thanks and regards,   Aron Kim     From: 최정민 CHOI JUNG MIN <cjm1@boditech.co.kr>  Sent: Monday, June 1, 2026 5
+  - 📎 image001.png
+  - 📎 image002.png
+  - 📎 image003.png
+  - 📎 image004.png
+  - 📎 image005.png
+  - 📎 image006.png
+  - 📎 image007.png
+  - 📎 image008.png
+  - 📎 image009.png
 - 2026-06-02 10:49 | 보통 | [일반] | 읽음 | 회의/공지 | [공지] 연구동 2층 공용 원심분리기 고장 및 사용 중지 안내
+  > 수신자 제위     안녕하세요. 동물사업팀 송휘승입니다.  연구동 2층에 비치된 공용 원심분리기(Beckman Coulter, Avanti JXN-26)가 사용 중 무게 중심이 맞지 않는 문제가  발생하여 현재 사용이 불가능한 상태입니다.     해당 장비는 6월15일(월요일)에 수리가 진행될 예정이오니, 안전을 위해 수리가 완료될 때
 - 2026-06-02 10:23 | 보통 | [첨부] | 읽음 | 견적/구매 | RE: 20260601-견적서-Calpro ELISA-바디텍-김나연 연구원.pdf
+  > 김운규 선생님 안녕하세요.  바디텍메드 김나연입니다.  Extraction buffer는 따로 2 박스정도 구비가 되어있는 상태라, 제가 전달드린 목록에 대해서만 따로 견적서를 요청할 수 있는지 여쭤보고 싶습니다.  감사합니다.  김나연 드림.    From: (주)메디쿠스 <medimast@naver.com>  Sent: Mond
+  - 📎 image001.jpg
 - 2026-06-02 10:05 | 보통 | [첨부] | 읽음 | 생산/제조 | 06월 생산계획 Rev.00 업로드 공유 건
+  > 안녕하세요.  금주 생산계획 업로드하였습니다 태현 AFIAS 생산계획 업데이트 하였으니 PM분들께서는 확인부탁드립니다   감사합니다          박철규Chaul-Gyu PARK (Email : pcg1@boditech.co.kr <mailto:pcg1@boditech.co.kr> )  Production Dept. / Mana
+  - 📎 image001.png
 - 2026-06-02 09:17 | 보통 | [첨부] | 읽음 | 기타 | [하나카드_법인]김철민님의 2026년06월18일 이용대금명세서입니다.
+  > * 이메일 명세서가 회원님의 정보를 더욱 안전하게 보호하여 드립니다. 	  <https://em.hanacard.co.kr:1443/automail/bill/img/index_mass.jpg> 	  	  	  <https://em.hanacard.co.kr:1443/img/bill/intro_tit_cor.jpg>
+  - 📎 hanacard_20260618.html
 - 2026-06-02 09:16 | 보통 | [첨부] | 읽음 | 기타 | 사진
+  > Android용 Outlook <https://aka.ms/AAb9ysg>  다운로드
+  - 📎 pro-HYKzlMZ9.jpeg
+  - 📎 pro-rVRkZubL.jpeg
+  - 📎 pro-0LRXoqKZ.jpeg
 - 2026-06-02 09:13 | 보통 | [첨부] | 읽음 | 기타 | 6월 1주 주간시약 재고 현황
+  > 안녕하세요?   용액제조실 김경아입니다,  6월 1주 주간 시약 재고 현황 보내 드립니다.  확인하시기 바랍니다.  저희 용액제조실 이용하실 때 당부 말씀드립니다.  특히 들어 시약 사용 후 뚜껑을 제대로 닫지 않는 경우가 발생하고 있습니다.  사용 후 뚜껑을 꼭 닫아 주시기 바랍니다.  또한 시약 사용하실 때 선입 선출 기본이고 
+  - 📎 6월 1주 주간시약 재고 현황.msg
 - 2026-06-02 09:08 | 보통 | [첨부] | 읽음 | 기타 | RE: [업무요청] AFIAS Calprotectin 브로셔 검토_마케팅팀 송진주
+  > 수신 : 이형록 대리님  발신 : 마케팅팀 송진주     안녕하세요 대리님!     전달 주신 피드백 반영하여 첨부와 같이 AFIAS Calprotectin 국내 브로셔 초안을 작성하였습니다.  확인 부탁 드리겠습니다!        송진주 드림      From: 이형록 LEE HYEONG ROK <lhr2@bodit
+  - 📎 Calprotectin 브로셔 초안 _국문 ver02 _마케팅팀 송진주 _20260601.pptx
+  - 📎 image001.png
 - 2026-06-02 08:25 | 보통 | [일반] | 읽음 | 기타 | Re: [업무요청] AFIAS Calprotectin 국영문 브로셔 _마케팅팀 송진주
+  > 송진주 과장님, 안녕하세요.  AFIAS Calprotectin 국영문 브로셔는 유지원 사원님이 진행하겠습니다.  수고하세요. 이정현 드림  Lee Jung hyun Design Development / Team Manager Boditech Med Inc.​ Tel +82-33-243-1400 FAX +82-33-243-9373 Direct +82-70-
 - 2026-06-02 08:15 | 보통 | [첨부] | 읽음 | 기타 | RE: Regarding the strategic plan: Boditech Med Inc.: 2025.09.08
+  > Dear Burak,     Thank you very much for your email and the update.  Yes, if possible, we want to receive them all together, including the rest of 150 C. difficile tests by SD Biosensor.     
+  - 📎 image001.jpg
+  - 📎 image002.jpg
+  - 📎 image003.jpg
+  - 📎 image004.jpg
+  - 📎 image005.jpg
 - 2026-06-02 08:13 | 보통 | [첨부] | 읽음 | 소프트웨어 | ichroma PSA [PSWED08EX], Free PSA [F1WEB06EX], AFIAS PSA Neo[PSWDA47X] id chip 검수 요청
+  > 안녕하세요  Cancer팀 임지은입니다.     ichroma PSA [PSWED08EX], Free PSA [F1WEB06EX], AFIAS PSA Neo[PSWEA47X] id chip 검수 요청 드립니다.       감사합니다  임지은 드림
+  - 📎 260601 Free PSA idchip 검수_F1WEB06EX.xlsx
+  - 📎 idchip_write_20230314_iChroma_A50_DualFormula_rev_051_F1WEB06EX.xlsx
+  - 📎 260528 Free PSA F1WEB06EX 수식제조기록서_28.01.05.xlsx
+  - 📎 260601 Free PSA F1WEB06EX id chip.txt
+  - 📎 260601 PSA Neo PSWED08EX id chip.txt
+  - 📎 idchip_write_20240322_iChroma_A50_DualFormula_rev_067_PSWED08EX.xlsx
+  - 📎 260528 PSA Neo PSWED08EX 제조기록서_수식 ichroma_exp 28.01.05.xlsx
+  - 📎 260601 PSA Neo idchip 검수_PSWED08EX.xlsx
+  - 📎 260601 PSA Neo PSWEA47X 검수용 서식 파일.xlsx
+  - 📎 IDCHIP_WRITE__AFIAS1_6_10_3_Rev_61_PSWEA47X.xlsm
+  - 📎 260527 PSA Neo PSWEA47X 수식작성 제조기록서_AFIAS_IJE_28.01.06.xlsx
+  - 📎 260601 AFIAS PSA Neo PSWEA47X id chip.txt
