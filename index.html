@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>뉴스 모음</title>
+  <style>
+    body { font-family: -apple-system, "Noto Sans KR", sans-serif; background:#f5f5f5; margin:0; padding:20px; }
+    h1 { text-align:center; }
+    .updated { text-align:center; color:#666; margin-bottom:30px; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(260px,1fr)); gap:16px; margin-bottom:30px; }
+    .card { background:#fff; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.08); overflow:hidden; transition:.2s; }
+    .card:hover { transform:translateY(-4px); }
+    .card-body { padding:16px; }
+    .card-title a { text-decoration:none; color:#222; font-size:15px; font-weight:600; line-height:1.4; }
+    .card-title a:hover { color:#2563eb; }
+  </style>
+</head>
+<body>
+  <h1>📰 주요 언론사 헤드라인</h1>
+  <p class="updated">업데이트: 2026-06-02 20:07</p>
+  <h2>조선일보</h2><div class="grid"></div><h2>한겨레</h2><div class="grid"></div><h2>중앙일보</h2><div class="grid"></div><h2>동아일보</h2><div class="grid"></div><h2>경향신문</h2><div class="grid">
+            <div class="card">
+              <div class="card-body">
+                <h3 class="card-title">
+                  <a href="" target="_blank">제9회 전국동시지방선거</a>
+                </h3>
+              </div>
+            </div></div>
+</body>
+</html>
