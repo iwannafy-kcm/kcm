@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "네이버 주요 뉴스 요약"
-date: 2026-06-03 12:14
+date: 2026-06-03 12:16
 categories: [news]
 tags: [naver, news, daily]
 ---
