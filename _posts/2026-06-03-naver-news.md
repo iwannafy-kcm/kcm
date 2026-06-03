@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "네이버 주요 뉴스 요약"
-date: 2026-06-03 12:11
+date: 2026-06-03 12:14
 categories: [news]
 tags: [naver, news, daily]
 ---
@@ -351,7 +351,7 @@ tags: [naver, news, daily]
 - [[단독]일본서 난리난 스페이스X 공모주, 한국 개미 강제 '포모' 오나](https://n.news.naver.com/article/648/0000047676?ntype=RANKING)
 - [[월간 ETF워치]'삼전닉스' 쏠린 투심, 단일종목 레버리지 단기간 급성장](https://n.news.naver.com/article/648/0000047679?ntype=RANKING)
 - ["K-바이오, 아시아 2위…임상 둔화·규제 병목 해결 과제"](https://n.news.naver.com/article/648/0000047682?ntype=RANKING)
-- [중복상장 금지 고육지책이라는데…휴온스 둘러싼 의문](https://n.news.naver.com/article/648/0000047683?ntype=RANKING)
+- [중복상장 금지 고육지책이라는데…휴온스그룹 재편 왜?](https://n.news.naver.com/article/648/0000047683?ntype=RANKING)
 - [현대가 휩쓴 압구정 재건축…남은 1·6구역 '언제, 누가'](https://n.news.naver.com/article/648/0000047681?ntype=RANKING)
 
 ## [서울경제]
