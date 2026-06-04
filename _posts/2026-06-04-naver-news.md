@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "네이버 주요 뉴스 요약"
-date: 2026-06-04 09:04
+date: 2026-06-04 09:05
 categories: [news]
 tags: [naver, news, daily]
 ---
@@ -241,7 +241,7 @@ tags: [naver, news, daily]
 
 ## [동아일보]
 
-- [[속보]오세훈, 정원오에 역전 후 격차 벌려…서울시장 0.26%P차 초접전](https://n.news.naver.com/article/020/0003724429?ntype=RANKING)
+- [[속보]오세훈, 정원오에 0.46%P로 격차 더 벌려](https://n.news.naver.com/article/020/0003724429?ntype=RANKING)
 - [한동훈의 대역전극…‘명픽’도 국힘도 이겼다](https://n.news.naver.com/article/020/0003724360?ntype=RANKING)
 - [민주당 압승… 지방권력도 뒤집혔다](https://n.news.naver.com/article/020/0003724409?ntype=RANKING)
 - [대구시장 유력 추경호 “시민께 감사”…고배 김부겸 “가능성 봤다”](https://n.news.naver.com/article/020/0003724358?ntype=RANKING)
@@ -636,7 +636,7 @@ tags: [naver, news, daily]
 
 ## [한국일보]
 
-- [오세훈, 개표 시작 13시간 만에 역전... 오세훈 48.69%, 정원오 48.59%](https://n.news.naver.com/article/469/0000934442?ntype=RANKING)
+- [오세훈, 개표 시작 13시간 만에 역전... 吳 48.69%, 정원오 48.59%](https://n.news.naver.com/article/469/0000934442?ntype=RANKING)
 - ['반성 없는' 보수, 결국 심판 받았나... MB·박근혜 등판에도 참패](https://n.news.naver.com/article/469/0000934426?ntype=RANKING)
 - [한동훈, 무소속으로 부산 북갑 뚫었다...보수 개편 신호탄](https://n.news.naver.com/article/469/0000934434?ntype=RANKING)
 - [소쿠리 투표 이어 초유의 투표용지 부족까지… 선관위 왜 이러나](https://n.news.naver.com/article/469/0000934383?ntype=RANKING)
