@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "네이버 주요 뉴스 요약"
-date: 2026-06-04 09:01
+date: 2026-06-04 09:04
 categories: [news]
 tags: [naver, news, daily]
 ---
@@ -116,7 +116,7 @@ tags: [naver, news, daily]
 
 ## [경기일보]
 
-- [[속보] 오세훈, 개표 13시간 만에 첫 역전…개표율 93.84% 현재](https://n.news.naver.com/article/666/0000109926?ntype=RANKING)
+- [오세훈, 개표 13시간 만에 첫 역전…개표율 93.84% 현재](https://n.news.naver.com/article/666/0000109926?ntype=RANKING)
 - [경기 기초단체장, 민주당 19 vs 국민의힘 12곳 당선](https://n.news.naver.com/article/666/0000109923?ntype=RANKING)
 - [한동훈, 부산 북갑서 당선...하정우에 역전](https://n.news.naver.com/article/666/0000109884?ntype=RANKING)
 - [“부정선거” 주장 시위대, 투표함 반출 저지…개표 이송 4시간째 지연](https://n.news.naver.com/article/666/0000109900?ntype=RANKING)
@@ -253,7 +253,7 @@ tags: [naver, news, daily]
 - [[속보] 오세훈 48.67% 정원오 48.61%…2600표 역전, 개표율 93.90%](https://n.news.naver.com/article/417/0001146009?ntype=RANKING)
 - [[속보]김정은 "핵무력 기하급수적으로 강화 계획 확정"](https://n.news.naver.com/article/417/0001146007?ntype=RANKING)
 - [오세훈, 개표 13시간만에 1위 탈환…'2000표' 미반출 잠실7동 변수](https://n.news.naver.com/article/417/0001146011?ntype=RANKING)
-- [민주당 9곳, 국민의힘 4곳…14곳 '미니 총선', 한동훈 부산 북갑 당선](https://n.news.naver.com/article/417/0001146001?ntype=RANKING)
+- [민주당 9곳, 국민의힘 4곳…한동훈 부산 북갑, 14개 '미니 총선' 결과](https://n.news.naver.com/article/417/0001146001?ntype=RANKING)
 
 ## [디지털데일리]
 
@@ -350,7 +350,7 @@ tags: [naver, news, daily]
 
 ## [서울경제]
 
-- [오세훈, 개표 13시간만에 역전…정원오와 격차 1만3211표로 늘려](https://n.news.naver.com/article/011/0004627510?ntype=RANKING)
+- [오세훈, 개표 13시간 만에 역전…정원오와 격차 더 벌려](https://n.news.naver.com/article/011/0004627510?ntype=RANKING)
 - [[속보] 선관위 “잠실7동 투표소 미반출 투표함 2개에 약 2000표 추산”](https://n.news.naver.com/article/011/0004627507?ntype=RANKING)
 - [“민주화 이후 가장 강한 권력”…5극 3특·부동산 정상화 드라이브](https://n.news.naver.com/article/011/0004627446?ntype=RANKING)
 - [‘尹의 황태자’서 ‘골목 정치인’으로…변신 성공한 한동훈](https://n.news.naver.com/article/011/0004627484?ntype=RANKING)
@@ -636,7 +636,7 @@ tags: [naver, news, daily]
 
 ## [한국일보]
 
-- [오세훈 48.69%, 정원오 48.59%… 개표 시작 13시간 만에 역전](https://n.news.naver.com/article/469/0000934442?ntype=RANKING)
+- [오세훈, 개표 시작 13시간 만에 역전... 오세훈 48.69%, 정원오 48.59%](https://n.news.naver.com/article/469/0000934442?ntype=RANKING)
 - ['반성 없는' 보수, 결국 심판 받았나... MB·박근혜 등판에도 참패](https://n.news.naver.com/article/469/0000934426?ntype=RANKING)
 - [한동훈, 무소속으로 부산 북갑 뚫었다...보수 개편 신호탄](https://n.news.naver.com/article/469/0000934434?ntype=RANKING)
 - [소쿠리 투표 이어 초유의 투표용지 부족까지… 선관위 왜 이러나](https://n.news.naver.com/article/469/0000934383?ntype=RANKING)
