@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '_posts/**'
-      - 'index.html'
 
 jobs:
   build-and-deploy:
